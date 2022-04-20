@@ -1,4 +1,6 @@
 <script>
+  import { goto } from "$app/navigation";
+
 	let open = false
 	function handleOpen() {
 		open = !open
