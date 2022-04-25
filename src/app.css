@@ -5,12 +5,14 @@ body {
   background-color: #e3e5e8;
 }
 h1, h2, h3, h4, h5, h6, .title {
-  font-family: 'Fredoka One';
-  /* font-family: Anton; */
+  /* font-family: 'Fredoka One'; */
+  font-family: Anton;
 }
 p, span, a, button {
   font-family: Nunito;
-  font-size: 18px
+  font-size: 16px;
+  color: grey
+
 }
 .primary {
   background-color: #F18E36;

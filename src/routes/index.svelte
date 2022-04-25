@@ -2,12 +2,12 @@
   import { goto } from '$app/navigation';
   import Carousel from '$lib/components/carousel.svelte'
   import FrontInfo from '$lib/components/frontInfo.svelte'
+
 </script>
 
 <Carousel></Carousel>
 
 <FrontInfo></FrontInfo>
-
 
 <!-- <button class="boton primary ripple">about us</button>
 <br><br>
