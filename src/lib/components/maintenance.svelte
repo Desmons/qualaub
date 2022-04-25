@@ -40,4 +40,13 @@
   h1 {
     color: #F18E36
   }
+
+  @media (max-width: 600px) {
+    .maintenance-img {
+      position: absolute;
+      height: 160px;
+      bottom: 10px;
+      right: 40px
+    }
+  }
 </style>
