@@ -53,5 +53,8 @@
     .maintenance-img {
       height: 240px;
     }
+    .coming-soon {
+      margin-top: 8%;
+    }
   }
 </style>
