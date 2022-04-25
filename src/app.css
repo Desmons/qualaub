@@ -2,7 +2,7 @@
 body {
   margin: 0;
   overflow-x: hidden;
-  background-color: #e3e5e8;
+  background-color: #ffffff;
 }
 h1, h2, h3, h4, h5, h6, .title {
   /* font-family: 'Fredoka One'; */
@@ -11,8 +11,7 @@ h1, h2, h3, h4, h5, h6, .title {
 p, span, a, button {
   font-family: Nunito;
   font-size: 16px;
-  color: grey
-
+  color: #808080
 }
 .primary {
   background-color: #F18E36;

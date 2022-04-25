@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-6 col-sm-12">
-      <img src="/images/qualaub.jpg" alt="under maintenance" class="logo">
+      <img src="/images/qalaub-black.png" alt="qalaub logo" class="logo">
 
       <div class="coming-soon">
         <h1>Estaremos en línea pronto..</h1>
@@ -21,9 +21,6 @@
 </div>
 
 <style>
-  :global(body) {
-    background-color: #fff;
-  }
   .container {
     margin-top: 20px;
     min-height: 90vh;
