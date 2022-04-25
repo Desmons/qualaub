@@ -4,7 +4,7 @@
       <img src="/images/qualaub.jpg" alt="under maintenance" class="logo">
 
       <div class="coming-soon">
-        <h1>We are coming soon..</h1>
+        <h1>Estaremos en línea pronto..</h1>
         <p>
           Qalaub un servicio especializado en aseguramiento de la calidad del software, 
           a través de un modelo de negocio flexible que se adapta a las necesidades 
@@ -14,7 +14,8 @@
 
     </div>
     <div class="col-md-6 col-sm-12">
-      <img src="/images/maintenance3.webp" alt="under maintenance" class="maintenance-img">
+      <!-- <img src="/images/maintenance3.webp" alt="under maintenance" class="maintenance-img"> -->
+      <img src="/images/maintenance2.webp" alt="under maintenance" class="maintenance-img">
     </div>
   </div>
 </div>
@@ -29,7 +30,7 @@
   }
   .maintenance-img {
     position: absolute;
-    height: 300px;
+    height: 600px;
     bottom: 10px;
     right: 40px
   }
@@ -41,12 +42,19 @@
     color: #F18E36
   }
 
+  @media (max-width: 1080px) {
+    .maintenance-img {
+      height: 500px;
+    }
+  }
+  @media (max-width: 780px) {
+    .maintenance-img {
+      height: 300px;
+    }
+  }
   @media (max-width: 600px) {
     .maintenance-img {
-      position: absolute;
-      height: 160px;
-      bottom: 10px;
-      right: 40px
+      height: 240px;
     }
   }
 </style>
