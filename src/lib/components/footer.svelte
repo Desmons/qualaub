@@ -1,9 +1,3 @@
-<div class="foot">
-  <h1>footer</h1>
+<div class="footer">
+  <p>&copy; 2022 desarrollado por <a href="#">QUALaub</a>, <a href="#">Documentación</a></p>
 </div>
-
-<style>
-  .foot {
-    margin-top: 100px
-  }
-</style>
